@@ -17,8 +17,12 @@ Python file that rewrite the qualtrics data into readable data for R
 
 # Collaborators
 Cheyenne van den Heuvel - S5003784
+
 Frederique Damstra - S5042968
+
 Froukje de Vries - S4960173
+
 Friso Stolk - S3792609
+
 Jelle Siebolt Westra - S4549155
 
