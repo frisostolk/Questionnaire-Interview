@@ -11,3 +11,6 @@ Raw results directly downloaded from Qualrics
 
 statistical_tests.html
 R output file
+
+Q&I.py
+Python file that rewrite the qualtrics data into readable data for R
