@@ -11,4 +11,3 @@ Raw results directly downloaded from Qualrics
 
 statistical_tests.html
 R output file
-
